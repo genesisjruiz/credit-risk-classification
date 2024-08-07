@@ -15,6 +15,7 @@ The machine learning process involved several stages:
 ### Results
 
 The logistic regression model's performance was evaluated using accuracy, precision, and recall scores. Here are the results:
+
 **Logistic Regression Model Performance:**
 
 * **Accuracy:** 0.99
